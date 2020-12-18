@@ -1,4 +1,4 @@
-# sockets-with-C
+# Sockets with C
 A server-client socket connection with C
 ## Run
 
